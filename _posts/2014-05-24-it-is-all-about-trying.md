@@ -1,6 +1,6 @@
 ---
 id: 102
-title: 'It is all about trying&#8230;'
+title: 'It is all about trying;'
 date: 2014-05-24T18:49:48+00:00
 author: iam@ibrahimokdad.com
 layout: post
