@@ -1,6 +1,6 @@
 ---
 id: 106
-title: 'You will fall in love with a computer&#8230;they say&#8230;'
+title: 'You will fall in love with a computer;they say;'
 date: 2014-06-15T06:22:02+00:00
 author: iam@ibrahimokdad.com
 layout: post

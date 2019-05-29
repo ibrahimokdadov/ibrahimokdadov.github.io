@@ -1,6 +1,6 @@
 ---
 id: 63
-title: 'How I solved the SoftException &#8220;Directory is writeable by group&#8221;'
+title: 'How I solved the SoftException;Directory is writeable by group;'
 date: 2013-11-24T14:49:58+00:00
 author: iam@ibrahimokdad.com
 layout: post

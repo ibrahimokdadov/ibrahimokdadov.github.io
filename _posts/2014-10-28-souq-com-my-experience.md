@@ -1,6 +1,6 @@
 ---
 id: 132
-title: 'Souq.Com. My experience&#8230;'
+title: 'Souq.Com. My experience;'
 date: 2014-10-28T06:28:51+00:00
 author: iam@ibrahimokdad.com
 layout: post

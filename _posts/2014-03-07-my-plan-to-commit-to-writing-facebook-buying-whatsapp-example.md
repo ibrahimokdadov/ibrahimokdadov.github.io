@@ -1,6 +1,6 @@
 ---
 id: 86
-title: 'My plan to commit to writing (Facebook buying Whatsapp example)&#8230;'
+title: 'My plan to commit to writing (Facebook buying Whatsapp example);'
 date: 2014-03-07T18:51:20+00:00
 author: iam@ibrahimokdad.com
 layout: post

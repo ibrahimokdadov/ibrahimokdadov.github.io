@@ -1,6 +1,6 @@
 ---
 id: 124
-title: 'Asp.net hosting? Avoid GoDaddy&#8230;'
+title: 'Asp.net hosting? Avoid GoDaddy;'
 date: 2014-07-15T19:00:11+00:00
 author: iam@ibrahimokdad.com
 layout: post

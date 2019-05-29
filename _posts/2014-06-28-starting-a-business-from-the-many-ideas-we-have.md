@@ -1,6 +1,6 @@
 ---
 id: 112
-title: 'Starting a business from the many ideas we have&#8230;.'
+title: 'Starting a business from the many ideas we have.'
 date: 2014-06-28T09:58:32+00:00
 author: iam@ibrahimokdad.com
 layout: post
