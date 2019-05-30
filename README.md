@@ -1,1 +1,0 @@
-# ibrahimokdadov.github.io
